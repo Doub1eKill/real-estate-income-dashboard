@@ -4,7 +4,7 @@ Dashboard วิเคราะห์ **รายได้จากการซ�
 พัฒนาด้วย **Python + Pandas + Streamlit + Plotly**
 
 - ที่มาข้อมูล: <https://data.go.th/dataset/income-2> (Open Data Common License)
-- Live demo: _ใส่ลิงก์ Streamlit Community Cloud หลัง deploy_
+- Live demo: <https://real-estate-income-dashboard-abqfb7appyeuvsrk5g8dxdr.streamlit.app/>
 
 ## ฟีเจอร์
 
